@@ -16,7 +16,7 @@ This repository contains the necessary files to build a car price prediction sys
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
+   git clone https://github.com/arijitmukherjee983/car-price-prediction.git
    cd car-price-prediction
 
 2. **Install Dependencies**
